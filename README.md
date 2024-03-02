@@ -31,7 +31,7 @@ sudo apt-get install autojump
 1. Download bashprofile to my workspace
 
     ```bash
-    curl -o bashprofile [URL]
+    wget https://raw.githubusercontent.com/mqjinwon/dotfiles/main/bashprofile -q -O ~/bashprofile
     ```
 
 2. Setting bashprofile to my `~/.bashrc`
